@@ -1,0 +1,1 @@
+gh notif mark-read
