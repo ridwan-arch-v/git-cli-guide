@@ -1,0 +1,25 @@
+[Update] - Version v1.0.0 🚀
+    - Date: 24-01-2025 📅
+    - Day: Wednesday 📆
+    - Time: 14:31:00 🕑
+    - Version: v1.0.0 🔢
+    - Issue/Fix: #N/A 🛠️ - Initial update and documentation improvements 📝
+    - Description:
+      - Updated various project files:
+        - .gitignore 🛑
+        - README.md 📖
+        - changelog.md 📜
+        - contributors.md 👥
+        - license.md 📄
+        - roadmap.md 🗺️
+        - setFolder/patchnote.txt 🗂️
+      - Added 'logs/' directory 📂 for future log file storage.
+    - Additional Notes:
+      - No breaking changes ⚙️.
+      - Ensure all files are checked for the latest updates 🔍.
+    - 🏅 **Credits & Acknowledgements**:
+      - This project is built with the help of the **[GitHub CLI](https://cli.github.com/)** documentation and the contributions of the amazing GitHub community.
+      - Special thanks to **[GitHub](https://github.com/)** for powering the GitHub CLI and allowing developers to manage repositories directly from the terminal.
+      - A huge thanks to the GitHub CLI team for their efforts in creating this amazing tool for developers.
+    - ⚖️ **License**: This project is licensed under the **[MIT License](LICENSE)**.
+    - 🚀 **Badges**: Added badges for repository metrics like forks, stars, issues, and license to enhance the project’s visibility.
