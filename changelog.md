@@ -19,3 +19,29 @@ The **GitHub CLI Guide** project follows [Semantic Versioning](https://semver.or
 
 ### Fixed
 - Tidak ada perbaikan pada versi pertama.
+
+## [1.0.2] - 2025-01-22
+
+### Added
+- 🧑‍💻 `gh action list`: Menampilkan daftar actions yang ada dalam workflow.
+- ⚡ `gh workflow enable`: Mengaktifkan atau menonaktifkan workflow.
+- 📝 `gh workflow view`: Melihat detail status dan log workflow yang sudah dijalankan.
+- 🎯 `gh workflow run`: Menjalankan workflow secara manual dari terminal.
+- 🔄 `gh workflow disable`: Menonaktifkan workflow sementara tanpa menghapusnya.
+- 🔁 `gh run rerun`: Menjalankan ulang run yang sebelumnya gagal atau dibatalkan.
+
+## Perbaikan Bug:
+- Tidak ada perbaikan bug dalam versi ini. 🚫🐞
+
+## Peningkatan:
+- 💥 Dokumentasi yang lebih lengkap dengan penjelasan lebih mendalam mengenai penggunaan GitHub CLI dalam konteks GitHub Actions dan Workflows.
+- 🚀 Analogi sehari-hari dan contoh perintah untuk mempercepat pemahaman pengguna baru.
+- ✨ Menambah tips-tips untuk mempercepat proses debugging dan meningkatkan efisiensi workflow.
+
+## Penghapusan:
+- Tidak ada penghapusan fitur dalam versi ini. 🛑
+
+---
+
+## [1.0.3] - 2025-01-22
+
